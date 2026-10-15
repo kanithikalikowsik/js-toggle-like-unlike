@@ -1,0 +1,33 @@
+.background-container {
+    background-color: #ffffff;
+    height: 50vh;
+    width: 22rem;
+}
+
+.puppy-image {
+    width: 100%;
+}
+
+.like_and_button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.like-icon {
+    font-size: 40px;
+    color: #cbd2d9;
+    padding-right: 10px;
+}
+
+.like-button {
+    background-color: #cbd2d9;
+    height: 30px;
+    width: 80px;
+    border-radius: 8px;
+    color: #9aa5b1;
+    border-color: none;
+    border-width: 0px;
+}
